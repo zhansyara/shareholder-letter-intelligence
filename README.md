@@ -1,21 +1,22 @@
-# Shareholder Letter Intelligence
+# SHAREHOLDER LETTER INTELLIGENCE
 
-A Streamlit MVP for comparing annual shareholder letters across companies and years.
+Turn management narratives into structured investment insight.
+
+Upload shareholder letters to evaluate tone, strategic priorities, management commitments and long-term credibility! 
+Get every conclusion grounded in the source document!
 
 ## What is included
 
-- White-blue interface
-- Industry selection and industry-specific analysis lenses
-- PDF upload
-- Optional OpenAI-powered semantic analysis
-- Offline heuristic demo mode
-- Management-tone radar
-- Strategy constellation
-- Strategic-emphasis heatmap
-- Commitments and risk extraction
-- Annotated letter view
-- Editable long-term performance dataset
-- CSV comparison export
+- AI-powered analysis of shareholder letters
+- Company and industry-specific evaluation framework
+- PDF upload and automatic text extraction
+- Management tone and communication assessment
+- Strategic priorities and capital allocation analysis
+- Risk, opportunity and commitment identification
+- Interactive visualizations and comparative dashboards
+- Annotated letter with evidence-backed insights
+- Long-term financial performance tracking
+- Exportable comparison results (CSV)
 
 ## Installation
 
