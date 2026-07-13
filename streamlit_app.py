@@ -611,9 +611,6 @@ with tabs[4]:
 
 **Important:** Demo mode uses transparent keyword heuristics and is intended for interface testing. Use AI mode for semantic interpretation, then manually validate material investment conclusions.
 """)
-    "Telecommunications": ["Subscribers", "ARPU", "Network investment", "Churn", "Spectrum", "Convergence"],
-    "Real Estate": ["Occupancy", "Rental growth", "Development pipeline", "Interest rates", "Asset sales", "Leverage"],
-}
 
 TONE_LEXICONS = {
     "Optimism": ["growth", "opportunity", "confident", "strong", "momentum", "excited", "record", "leading", "improve", "resilient"],
