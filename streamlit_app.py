@@ -990,7 +990,11 @@ st.markdown("""
 
 with st.sidebar:
     st.header("Analysis workspace")
-    industry = st.selectbox("Industry", list(INDUSTRIES.keys()))
+    industry = st.selectbox(
+    "Industry",
+    list(INDUSTRIES.keys()),
+    key="sidebar_industry"
+)
     st.caption("Industry vocabulary helps contextualise strategic priorities.")
     st.markdown("**Industry lenses**")
     st.markdown(" ".join([f'<span class="note-chip">{x}</span>' for x in INDUSTRIES[industry]]), unsafe_allow_html=True)
