@@ -18,6 +18,17 @@ Get every conclusion grounded in the source document!
 - Long-term financial performance tracking
 - Exportable comparison results (CSV)
 
+## Screenshots
+
+<img width="1358" height="718" alt="image" src="https://github.com/user-attachments/assets/cb6f645a-02b6-44a9-b438-c348488dc7c1" />
+<img width="1358" height="718" alt="image" src="https://github.com/user-attachments/assets/dff6f8b7-0341-4978-a42e-739656bc8453" />
+<img width="1358" height="656" alt="image" src="https://github.com/user-attachments/assets/edd21a1e-42ce-4745-b48b-abb4b5737a7c" />
+<img width="1358" height="715" alt="image" src="https://github.com/user-attachments/assets/4d465faf-842b-4186-bccc-bf9ce60ff3d4" />
+
+## Live Demo
+https://shareholder-letter-intelligence.streamlit.app
+
+
 ## Installation
 
 ### 1. Install Python
